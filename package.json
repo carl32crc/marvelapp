@@ -18,7 +18,7 @@
     "babel-preset-es2015-native-modules": "^6.9.4",
     "babel-preset-es2017": "^6.24.1",
     "webpack": "^3.5.5",
-    "webpack-dev-server": "2"
+    "webpack-dev-server": "3"
   },
   "dependencies": {
     "autoprefixer": "^9.1.0",
